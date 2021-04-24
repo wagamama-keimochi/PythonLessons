@@ -1,4 +1,4 @@
-# PythonLessons
+# Even More With Lists-- Trying List Comprehension
 In this lab you will write a Python program that does a little more advanced list manipulation.
 This exercise is intended to get you introduced to some of the more powerful ways to work with lists.
 
