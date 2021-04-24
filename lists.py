@@ -5,9 +5,7 @@
 # reference you make to one of the variables below must use the prefix "lists".
 # For example, to use school_lunches, your code will use "lists.school_lunches"
 
-# Just like how we had to add import random and import turtle in the previous sessions, now we will need to import this file.
-# add: import lists
-
+# Just like how we had to add import random and import turtle in the previous sessions, now we will need to import this file so that the main file can access it.
 
 school_lunches = ["hamburgers", "pizza", "hot dogs", "mac 'n cheese", "tacos", 
                   "hot dogs", "hamburgers", "sloppy joes", "spaghetti", "hot dogs"]
