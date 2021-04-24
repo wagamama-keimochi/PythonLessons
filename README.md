@@ -1,6 +1,9 @@
 # Even More With Lists-- Trying List Comprehension
-In this lab you will write a Python program that does a little more advanced list manipulation.
+In this exercise you will write a Python program that does a little more advanced list manipulation.
 This exercise is intended to get you introduced to some of the more powerful ways to work with lists.
+In repl.it, create a new program and create two files: main.py and lists.py
+For now, copy and paste the contents of these given files to your repl.it files.
+We will learn how to import/pull GitHub files in the next sessions.
 
 # Requirements
 Your software file will begin several lists imported from a module "lists". You will need to use list comprehension and list pairing to iterate and edit the data in the lists. There are two different tasks to perform and here are the requirements for each
