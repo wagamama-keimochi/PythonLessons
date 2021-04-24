@@ -2,7 +2,7 @@
 In this lab you will write a Python program that does a little more advanced list manipulation.
 This exercise is intended to get you introduced to some of the more powerful ways to work with lists.
 
-Requirements
+# Requirements
 Your software file will begin several lists imported from a module "lists". You will need to use list comprehension and list pairing to iterate and edit the data in the lists. There are three different tasks to perform and here are the requirements for each
 
 Using the provided list 'school_lunches' from the lists module, your code shall use list comprehension to print out the daily menu, but substitute "bratwurst" everywhere you see "hot dog". Your code shall print the list directly so the output will include the brackets and quotations (['item 1', item 2' ... and so on])
